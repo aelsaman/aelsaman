@@ -2,7 +2,7 @@
 
 I'm @aelsaman, a Senior Software engineer with a major focus on ReactJS ecosystem frontend development. I am also very passionate about cloud-native software development best practices.
 
-👩‍💻 You can learn more about me on my website [aelsaman.cloud](https://aelsaman.github.io)
+👩‍💻 You can learn more about me on my website [aelsaman](https://aelsaman.github.io)
 
 <!--
 ✨ You can follow me on Twitter 
