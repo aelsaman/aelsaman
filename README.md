@@ -4,6 +4,7 @@ I'm @aelsaman, a Senior Software engineer with a major focus on ReactJS ecosyste
 
 👩‍💻 You can learn more about me on my website [aelsaman](https://aelsaman.github.io)
 
+[![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=aelsaman)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ✨ You can follow me on Twitter 
 -->
