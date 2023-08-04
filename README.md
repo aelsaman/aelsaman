@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I'm @aelsaman, a Senior Software engineer with a major focus on ReactJS ecosystem frontend development. I am also very passionate about cloud-native software development best practices.
+I'm @aelsaman, a Senior Software engineer with a major focus on ReactJS ecosystem and a huge passion for cloud engineering. I am an ex-IBMer, more specifically IBM Cloud Garage, currently working at [Toptal](https://www.toptal.com/resume/alaa-elsaman)
 
-👩‍💻 You can learn more about me on my website [aelsaman](https://aelsaman.github.io)
+
+👩‍💻 You can learn more about me on [Linkedin](https://www.linkedin.com/in/aelsaman/) or, on my website [aelsaman](https://aelsaman.github.io)
 
 <!--
 [![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=aelsaman)](https://github.com/anuraghazra/github-readme-stats)
