@@ -1,3 +1,7 @@
+
+![hero](/images/hello-there-hero.png "Hello there!")
+
+
 ### Hi there 👋
 
 I'm @aelsaman, a Senior Software engineer with a major focus on ReactJS ecosystem and a huge passion for cloud engineering. I am ex-IBMer, more specifically IBM Cloud Garage, currently working at [Toptal](https://www.toptal.com/resume/alaa-elsaman)
