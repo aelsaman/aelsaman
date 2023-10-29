@@ -1,6 +1,6 @@
 ![hero](/images/hello-there-hero.png 'Hello there!')
 
-### Hi there 👋
+### Hi 👋
 
 I'm @aelsaman, a Senior Software engineer with a major focus on ReactJS ecosystem and a passion for cloud-native approach. I am ex-IBMer (IBM Cloud), currently working at [Toptal](https://www.toptal.com/resume/alaa-elsaman)
 
