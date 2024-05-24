@@ -15,7 +15,7 @@ I'm @aelsaman, a Senior Software engineer with a major focus on ReactJS/NodeJS e
 ✨ You can follow me on Twitter
 -->
 
-💌 Also, Feel free to reach out on [Discord](https://discordapp.com/users/aelsaman)
+💌 Also, Feel free to reach out to me via [Discord](https://discordapp.com/users/aelsaman)
 
 <!--
 **aelsaman/aelsaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
